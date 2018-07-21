@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloService", "HelloService\HelloService.csproj", "{558F73AD-7F99-4FAF-893F-6C8101590A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloServiceHost", "HelloServiceHost\HelloServiceHost.csproj", "{F8090FCB-B2C7-4EB9-87E0-AC221759DDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558F73AD-7F99-4FAF-893F-6C8101590A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558F73AD-7F99-4FAF-893F-6C8101590A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558F73AD-7F99-4FAF-893F-6C8101590A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558F73AD-7F99-4FAF-893F-6C8101590A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8090FCB-B2C7-4EB9-87E0-AC221759DDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8090FCB-B2C7-4EB9-87E0-AC221759DDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8090FCB-B2C7-4EB9-87E0-AC221759DDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8090FCB-B2C7-4EB9-87E0-AC221759DDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52152AC-999A-4C85-A570-B5C5390ABF5C}
+	EndGlobalSection
+EndGlobal

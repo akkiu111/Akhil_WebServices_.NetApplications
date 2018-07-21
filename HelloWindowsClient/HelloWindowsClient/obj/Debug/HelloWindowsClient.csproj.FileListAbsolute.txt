@@ -1,0 +1,10 @@
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csprojResolveAssemblyReference.cache
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.Cache
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.CoreCompileInputs.cache
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+E:\MyStuff\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb

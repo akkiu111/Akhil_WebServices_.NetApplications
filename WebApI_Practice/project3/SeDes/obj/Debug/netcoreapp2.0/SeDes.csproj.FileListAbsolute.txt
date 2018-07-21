@@ -1,0 +1,10 @@
+E:\WebApI_Practice\project3\SeDes\bin\Debug\netcoreapp2.0\SeDes.deps.json
+E:\WebApI_Practice\project3\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.json
+E:\WebApI_Practice\project3\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.dev.json
+E:\WebApI_Practice\project3\SeDes\bin\Debug\netcoreapp2.0\SeDes.dll
+E:\WebApI_Practice\project3\SeDes\bin\Debug\netcoreapp2.0\SeDes.pdb
+E:\WebApI_Practice\project3\SeDes\obj\Debug\netcoreapp2.0\SeDes.csproj.CoreCompileInputs.cache
+E:\WebApI_Practice\project3\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfoInputs.cache
+E:\WebApI_Practice\project3\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfo.cs
+E:\WebApI_Practice\project3\SeDes\obj\Debug\netcoreapp2.0\SeDes.dll
+E:\WebApI_Practice\project3\SeDes\obj\Debug\netcoreapp2.0\SeDes.pdb

@@ -1,0 +1,20 @@
+﻿<div ng-app="myModule">  
+    <div  ng-controller="myController">
+        <table>
+            <tr>
+                <td>State</td>
+                <td>
+                    <select data-ng-model="selectedStates" data-ng-options=" st.statename for st in states"  >
+                        @*<option value="?" selected="selected"></option>*@
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+@section scripts{
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="~/Scripts/Angularfordropdown.js"></script>
+
+
+}

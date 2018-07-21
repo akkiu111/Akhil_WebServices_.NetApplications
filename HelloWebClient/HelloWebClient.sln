@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebClient", "HelloWebClient\HelloWebClient.csproj", "{47707EAD-04B1-4368-86F7-9CE65431007D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWindowClient_TCPCalling", "HelloWindowClient_TCPCalling\HelloWindowClient_TCPCalling.csproj", "{B8B87A95-368B-4A08-8F98-6DB881D6726E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47707EAD-04B1-4368-86F7-9CE65431007D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47707EAD-04B1-4368-86F7-9CE65431007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47707EAD-04B1-4368-86F7-9CE65431007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47707EAD-04B1-4368-86F7-9CE65431007D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B87A95-368B-4A08-8F98-6DB881D6726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B87A95-368B-4A08-8F98-6DB881D6726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B87A95-368B-4A08-8F98-6DB881D6726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B87A95-368B-4A08-8F98-6DB881D6726E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361575FC-EB49-4522-9890-8AE554713AB5}
+	EndGlobalSection
+EndGlobal

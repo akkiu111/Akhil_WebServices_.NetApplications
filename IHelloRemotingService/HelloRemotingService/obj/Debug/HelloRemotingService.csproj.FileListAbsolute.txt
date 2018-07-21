@@ -1,0 +1,8 @@
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csproj.CoreCompileInputs.cache
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+E:\MyStuff\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.pdb

@@ -1,0 +1,9 @@
+E:\MyStuff\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll.config
+E:\MyStuff\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+E:\MyStuff\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+E:\MyStuff\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyStuff\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyStuff\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+E:\MyStuff\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csproj.CoreCompileInputs.cache
+E:\MyStuff\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+E:\MyStuff\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb

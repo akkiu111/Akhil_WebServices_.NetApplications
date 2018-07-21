@@ -1,0 +1,10 @@
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll.config
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+E:\IMCS\DotNetProjects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

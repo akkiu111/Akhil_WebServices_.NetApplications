@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\HelloService\HelloService\bin\Debug\HelloService.dll.config
+E:\IMCS\DotNetProjects\HelloService\HelloService\bin\Debug\HelloService.dll
+E:\IMCS\DotNetProjects\HelloService\HelloService\bin\Debug\HelloService.pdb
+E:\IMCS\DotNetProjects\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\HelloService\HelloService\obj\Debug\HelloService.dll
+E:\IMCS\DotNetProjects\HelloService\HelloService\obj\Debug\HelloService.pdb

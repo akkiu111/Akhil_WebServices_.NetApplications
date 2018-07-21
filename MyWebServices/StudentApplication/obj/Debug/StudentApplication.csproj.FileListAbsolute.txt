@@ -1,0 +1,8 @@
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\bin\StudentApplication.dll.config
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\bin\StudentApplication.dll
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\bin\StudentApplication.pdb
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\obj\Debug\StudentApplication.dll
+E:\IMCS\DotNetProjects\MyWebServices\StudentApplication\obj\Debug\StudentApplication.pdb

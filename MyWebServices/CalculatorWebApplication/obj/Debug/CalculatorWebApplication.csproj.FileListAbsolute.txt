@@ -1,0 +1,9 @@
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\bin\CalculatorWebApplication.dll.config
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\bin\CalculatorWebApplication.dll
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\bin\CalculatorWebApplication.pdb
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.dll
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.pdb
+E:\IMCS\DotNetProjects\MyWebServices\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.csprojResolveAssemblyReference.cache

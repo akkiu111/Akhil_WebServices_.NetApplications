@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dropdownModelStoreContainer" CdmEntityContainer="StateDropdownEntity">
+    <EntitySetMapping Name="states">
+      <EntityTypeMapping TypeName="dropdownModel.state">
+        <MappingFragment StoreEntitySet="states">
+          <ScalarProperty Name="stateid" ColumnName="stateid" />
+          <ScalarProperty Name="statename" ColumnName="statename" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

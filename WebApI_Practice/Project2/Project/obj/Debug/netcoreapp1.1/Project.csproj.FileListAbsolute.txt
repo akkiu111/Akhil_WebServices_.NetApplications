@@ -1,0 +1,8 @@
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\bin\Debug\netcoreapp1.1\Project.deps.json
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\bin\Debug\netcoreapp1.1\Project.runtimeconfig.json
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\bin\Debug\netcoreapp1.1\Project.runtimeconfig.dev.json
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\bin\Debug\netcoreapp1.1\Project.dll
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\bin\Debug\netcoreapp1.1\Project.pdb
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\obj\Debug\netcoreapp1.1\Project.AssemblyInfo.cs
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\obj\Debug\netcoreapp1.1\Project.dll
+c:\Sources\essences\edX\Course001\Code\Bidirectional Serializtion-Deserialization\Project\obj\Debug\netcoreapp1.1\Project.pdb

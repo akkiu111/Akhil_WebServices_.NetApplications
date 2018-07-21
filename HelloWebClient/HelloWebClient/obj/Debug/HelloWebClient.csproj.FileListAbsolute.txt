@@ -1,0 +1,9 @@
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\bin\HelloWebClient.dll.config
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\bin\HelloWebClient.dll
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\bin\HelloWebClient.pdb
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.dll
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWebClient\obj\Debug\HelloWebClient.pdb

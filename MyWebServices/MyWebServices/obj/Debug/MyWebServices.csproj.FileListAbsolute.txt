@@ -1,0 +1,9 @@
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\bin\MyWebServices.dll.config
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\bin\MyWebServices.dll
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\bin\MyWebServices.pdb
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\obj\Debug\MyWebServices.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\obj\Debug\MyWebServices.dll
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\obj\Debug\MyWebServices.pdb
+E:\IMCS\DotNetProjects\MyWebServices\MyWebServices\obj\Debug\MyWebServices.csprojResolveAssemblyReference.cache

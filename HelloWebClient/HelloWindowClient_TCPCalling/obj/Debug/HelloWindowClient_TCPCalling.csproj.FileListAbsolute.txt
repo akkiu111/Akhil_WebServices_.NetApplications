@@ -1,0 +1,10 @@
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\bin\Debug\HelloWindowClient_TCPCalling.exe.config
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\bin\Debug\HelloWindowClient_TCPCalling.exe
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\bin\Debug\HelloWindowClient_TCPCalling.pdb
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.Form1.resources
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.Properties.Resources.resources
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.csproj.GenerateResource.Cache
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.exe
+E:\IMCS\DotNetProjects\HelloWebClient\HelloWindowClient_TCPCalling\obj\Debug\HelloWindowClient_TCPCalling.pdb

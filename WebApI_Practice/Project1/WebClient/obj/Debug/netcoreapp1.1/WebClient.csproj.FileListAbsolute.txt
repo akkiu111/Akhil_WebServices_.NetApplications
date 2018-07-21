@@ -1,0 +1,18 @@
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
+E:\WebApI_Practice\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+E:\WebApI_Practice\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+E:\WebApI_Practice\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+E:\WebApI_Practice\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+E:\WebApI_Practice\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+E:\WebApI_Practice\WebClient\obj\Debug\netcoreapp1.1\WebClient.csproj.CoreCompileInputs.cache
+E:\WebApI_Practice\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfoInputs.cache
+E:\WebApI_Practice\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+E:\WebApI_Practice\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+E:\WebApI_Practice\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
